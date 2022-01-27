@@ -29,6 +29,11 @@ namespace CompletedWeatherApi.Services
         {
             var weatherCondition = _weatherRepo.GetWeatherCondition(id);
 
+            if(weatherCondition.TemperatureF < 32)
+            {
+                weatherCondition.Summary = "Cold";
+            }
+
             return weatherCondition;
         }
 
