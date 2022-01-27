@@ -1,0 +1,17 @@
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherRepository.deps.json
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherRepository.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\ref\WeatherRepository.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherRepository.pdb
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherDefinition.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherDomain.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherDefinition.pdb
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\bin\Debug\net6.0\WeatherDomain.pdb
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.csproj.AssemblyReference.cache
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.AssemblyInfoInputs.cache
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.AssemblyInfo.cs
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.csproj.CoreCompileInputs.cache
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.csproj.CopyComplete
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\ref\WeatherRepository.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherRepository\obj\Debug\net6.0\WeatherRepository.pdb

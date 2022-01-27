@@ -1,0 +1,12 @@
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\bin\Debug\net6.0\WeatherDomain.deps.json
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\bin\Debug\net6.0\WeatherDomain.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\bin\Debug\net6.0\ref\WeatherDomain.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\bin\Debug\net6.0\WeatherDomain.pdb
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.AssemblyInfoInputs.cache
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.AssemblyInfo.cs
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.csproj.CoreCompileInputs.cache
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\ref\WeatherDomain.dll
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.pdb
+C:\Users\hayde\source\repos\ApiTraining\CompletedExampleApi\WeatherDomain\obj\Debug\net6.0\WeatherDomain.csproj.AssemblyReference.cache

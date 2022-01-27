@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc308bf0-6828-4eef-bc25-577c15006730": {
+      "ProjectGuid": "dc308bf0-6828-4eef-bc25-577c15006730",
+      "DisplayName": "CompletedWeatherApi",
+      "ColorIndex": 0
+    },
+    "56f9b37b-8275-490c-939c-357f14109860": {
+      "ProjectGuid": "56f9b37b-8275-490c-939c-357f14109860",
+      "DisplayName": "WeatherDomain",
+      "ColorIndex": 1
+    },
+    "78f482b8-43c3-479b-83e9-35a96f297a14": {
+      "ProjectGuid": "78f482b8-43c3-479b-83e9-35a96f297a14",
+      "DisplayName": "WeatherRepository",
+      "ColorIndex": 2
+    },
+    "ed53152f-ac28-46b4-893e-ab57e6a0f72b": {
+      "ProjectGuid": "ed53152f-ac28-46b4-893e-ab57e6a0f72b",
+      "DisplayName": "WeatherDefinition",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
